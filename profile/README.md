@@ -2,7 +2,7 @@
 ### maintained by [Qameta Software](http://qameta.io/?utm_source=github&utm_medium=readme&utm_campaign=header-link)
 </p>
 Welcome to the **Allure Framework** repository. 
-Allure Framework is a set of adaptors and examples for Allure Report, a flexible, lightweight multi-language test reporting tool.
+Allure Framework is a set of adaptors and examples for Allure Report, a flexible, lightweight multi-language test reporting tool. Read more at the [official website](https://qameta.io/allure-report) of the project.
 </p>
 
 ![Allure Report](https://github.com/allure-framework/allure2/raw/master/.github/preview_report.png)
