@@ -6,11 +6,11 @@ Welcome to the **Allure Framework** repository.
 Allure Framework is a set of adaptors and examples for Allure Report, a flexible, lightweight multi-language test reporting tool. Read more at the [official website](https://allurereport.org/) of the project.
 
 ## Allure Report
-![Allure Report](https://github.com/allure-framework/allure2/raw/master/.github/allure-report-gif.gif)
+![Allure Report](https://github.com/allure-framework/allure2/raw/main/.github/allure-report-gif.gif)
 
 The main repo is [Allure Report](https://github.com/allure-framework/allure2): this is where you may create issues and tickets for the Report.  
 
-If you have any questions, ideas, or suggestions regarding Allure Report, feel free to start a thread at [GitHub Discussions](https://github.com/allure-framework/allure2/discussions).
+If you have any questions, ideas, or suggestions regarding the Allure Report, feel free to start a thread at [GitHub Discussions](https://github.com/allure-framework/allure2/discussions).
 
 ## Testing frameworks adaptors
 We did quite a lot of work trying to provide native adaptors for almost all the common programming languages. 
@@ -31,8 +31,8 @@ There is also a bunch of CI adaptors to make easier-to-share reports:
 - [Bamboo](https://github.com/allure-framework/allure-bamboo)
 - [TeamCity](https://github.com/allure-framework/allure-teamcity)
 
-There is a bunch of less popular adaptors. You may look for them **[here](https://github.com/orgs/allure-framework/repositories)**.
-[Here](https://allurereport.org/docs/) you will find **Allure Report documentation**.
+There are a bunch of less popular adaptors. You may look for them **[here](https://github.com/orgs/allure-framework/repositories)**.
+[Here](https://allurereport.org/docs/), you will find **Allure Report documentation**.
 
 ## Allure TestOps
 
