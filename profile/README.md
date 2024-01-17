@@ -40,4 +40,4 @@ DevOps-ready Testing Platform built to reduce code time-to-market without qualit
 
 Now, Allure TestOps Cloud is generally available to all development teams! Try it on our [website](http://qameta.io/?utm_source=github&utm_medium=readme&utm_campaign=footer-link).
 
-[![TestOps](https://github.com/allure-framework/allure2/raw/master/.github/allure-testops-cloud-now.jpg)](http://qameta.io/?utm_source=github&utm_medium=readme&utm_campaign=footer-pic-link)
+[![TestOps](https://github.com/allure-framework/allure2/raw/main/.github/allure-testops-cloud-now.jpg)](http://qameta.io/?utm_source=github&utm_medium=readme&utm_campaign=footer-pic-link)
