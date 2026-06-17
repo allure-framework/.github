@@ -25,6 +25,7 @@ build/
 coverage/
 tmp/
 temp/
+scripts/
 
 # Dependencies and package manager caches
 node_modules/
